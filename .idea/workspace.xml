@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de0277aa-3a96-49a1-92fd-a3f235e51dc1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/employee/target/" />
+    <ignored path="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-meeting-room-management/target/" />
+    <ignored path="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-ip-management/target/" />
+    <ignored path="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/target/" />
+    <ignored path="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-computer-management/target/" />
+    <ignored path="$PROJECT_DIR$/eastcom-ripple/target/" />
+    <ignored path="$PROJECT_DIR$/eastcom-ripple/common-util/target/" />
+    <ignored path="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-book-management/target/" />
+    <ignored path="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-shiro/target/" />
+    <ignored path="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-ordering-platform/target/" />
+    <ignored path="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-asset-management/target/" />
+    <ignored path="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-network-management/target/" />
+    <ignored path="$PROJECT_DIR$/demo1/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/work_space1$Demo1ApplicationTests.ic" NAME="Demo1ApplicationTests Coverage Results" MODIFIED="1601261269244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/work_space1$Demo1Application.ic" NAME="Demo1Application Coverage Results" MODIFIED="1601262101637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="work_space1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Demo1ApplicationTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/Demo1ApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo1Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/Demo1Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Deprecated.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/JDK-8/src.zip!/java/lang/Deprecated.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SignDefinte.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/inter/SignDefinte.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Inheritable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/inter/Inheritable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InheritableFather.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/controller/InheritableFather.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-69">
+              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InheritableSon.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/controller/InheritableSon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/controller/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="MyBatisMapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>employeeDimission</find>
+      <find>setEmployeeDimissionJobName</find>
+      <find>Documented</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eastcom-ripple" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/EmployeeDimissionController.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/entity/EmployeeDimission.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/mapper/EmployeeDistributeMapper.xml" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/mapper/EmployeeDimissionMapper.xml" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/mapper/SalaryMapper.xml" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/util/PageRole.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/mapper/RoleMapper.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/serviceinter/RoleService.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/serviceinterimpl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/RoleController.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/common-util/src/main/java/com/eastcom/ripple/common/entity/SysUser.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/util/ResultVO.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/doc/员工管理接口文档.md" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/common-util/src/main/java/com/eastcom/ripple/common/util/ResultUtils.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/common-util/src/main/java/com/eastcom/ripple/common/vo/ResultVO.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/entity/SysUser.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/mapper/RoleMapper.xml" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/util/PageSysUser.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/login/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/mapper/Test.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/test/java/com/eastcom/ripple/test.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/test/java/com/eastcom/ripple/test/Test.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/test/java/com/test/MapperTest.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/common-util/src/main/java/com/eastcom/ripple/common/vo/employee/BatchQueryEmpVO.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/mapper/EmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/test/java/com/eastcom/ripple/MapperTest.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/mapper/EmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/login/UserLogin.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/SysUserController.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/entity/Role.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/mapper/SysUserMapper.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/serviceinter/SysUserService.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/serviceinterimpl/SysUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/employee/src/main/java/com/example/demo/serviceinterimpl/SysUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/login/Test.java" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/mapper/SysUserMapper.xml" />
+        <option value="$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/login/token.java" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/Demo1ApplicationTests.java" />
+        <option value="$PROJECT_DIR$/demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/Demo1Application.java" />
+        <option value="$PROJECT_DIR$/demo1/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/inter/SignDefinte.java" />
+        <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/controller/InheritableFather.java" />
+        <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/controller/InheritableSon.java" />
+        <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/inter/Inheritable.java" />
+        <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/controller/Person.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\apache-maven-3.5.4\MavenSepositoryIDEA" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.5.4\conf\settingsIDEA.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="467" />
+    <option name="y" value="198" />
+    <option name="width" value="1268" />
+    <option name="height" value="790" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="work_space1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work_space1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/work_space2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.login" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\work_space1\eastcom-ripple\common-util\src\main\java\com\eastcom\ripple\common\entity" />
+      <recent name="E:\idea\work_space1\eastcom-ripple\eastcom-ripple-employee-management\src\main\java\com\eastcom\ripple\util" />
+      <recent name="E:\idea\work_space1\eastcom-ripple\eastcom-ripple-employee-management\src\main\java\com\eastcom\ripple" />
+      <recent name="E:\idea\work_space1\eastcom-ripple\eastcom-ripple-employee-management\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.20649652" />
+  </component>
+  <component name="RunManager" selected="Application.Person">
+    <configuration name="InheritableSon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo1.controller.InheritableSon" />
+      <module name="demo1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo1.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo1.controller.Person" />
+      <module name="demo1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo1.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Demo1ApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.demo1" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo1.Demo1ApplicationTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="demo1 [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/demo1" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="employee [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/employee" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="Demo1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo1.Demo1Application" />
+    </configuration>
+    <configuration name="EmployeeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="employee" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.EmployeeApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EmployeeApplication" />
+      <item itemvalue="Spring Boot.Demo1Application" />
+      <item itemvalue="Maven.employee [clean]" />
+      <item itemvalue="Maven.demo1 [clean]" />
+      <item itemvalue="JUnit.Demo1ApplicationTests" />
+      <item itemvalue="Application.InheritableSon" />
+      <item itemvalue="Application.Person" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.InheritableSon" />
+        <item itemvalue="JUnit.Demo1ApplicationTests" />
+        <item itemvalue="Maven.demo1 [clean]" />
+        <item itemvalue="Maven.employee [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\86158\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de0277aa-3a96-49a1-92fd-a3f235e51dc1" name="Default" comment="" />
+      <created>1599400189151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599400189151</updated>
+      <workItem from="1599400191589" duration="5316000" />
+      <workItem from="1599405607425" duration="233000" />
+      <workItem from="1599441253383" duration="614000" />
+      <workItem from="1599443038867" duration="2291000" />
+      <workItem from="1599450373715" duration="1433000" />
+      <workItem from="1599451959773" duration="865000" />
+      <workItem from="1599454701770" duration="1313000" />
+      <workItem from="1599458838125" duration="3239000" />
+      <workItem from="1599463340597" duration="10182000" />
+      <workItem from="1599527466894" duration="14475000" />
+      <workItem from="1599613778773" duration="17593000" />
+      <workItem from="1599700580431" duration="22907000" />
+      <workItem from="1599791313215" duration="23953000" />
+      <workItem from="1599889759137" duration="25028000" />
+      <workItem from="1599982803626" duration="16610000" />
+      <workItem from="1600007361790" duration="3730000" />
+      <workItem from="1600064218994" duration="2089000" />
+      <workItem from="1600068840067" duration="4317000" />
+      <workItem from="1600132490120" duration="29667000" />
+      <workItem from="1600186043573" duration="2238000" />
+      <workItem from="1600218655072" duration="11012000" />
+      <workItem from="1600250140542" duration="785000" />
+      <workItem from="1600304796620" duration="3300000" />
+      <workItem from="1600308376140" duration="18726000" />
+      <workItem from="1600394981219" duration="15405000" />
+      <workItem from="1600435524732" duration="4556000" />
+      <workItem from="1600516812087" duration="10532000" />
+      <workItem from="1600650803099" duration="20646000" />
+      <workItem from="1600736978172" duration="10000000" />
+      <workItem from="1600787012855" duration="233000" />
+      <workItem from="1600787274152" duration="77000" />
+      <workItem from="1601086392981" duration="987000" />
+      <workItem from="1601087400509" duration="33000" />
+      <workItem from="1601087449816" duration="557000" />
+      <workItem from="1601088039245" duration="1326000" />
+      <workItem from="1601089382659" duration="59000" />
+      <workItem from="1601089458154" duration="634000" />
+      <workItem from="1601090109810" duration="1428000" />
+      <workItem from="1601255504706" duration="6663000" />
+      <workItem from="1601428232960" duration="10093000" />
+    </task>
+    <task id="LOCAL-00001" summary="实现部分员工管理，公司管理，系统管理，相关逻辑代码">
+      <created>1600335274009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600335274009</updated>
+    </task>
+    <task id="LOCAL-00002" summary="实现部分员工管理，公司管理，系统管理，相关逻辑代码">
+      <created>1600335388891</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600335388891</updated>
+    </task>
+    <task id="LOCAL-00003" summary="实现部分员工管理，公司管理，系统管理，相关逻辑代码">
+      <created>1600336262695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600336262695</updated>
+    </task>
+    <task id="LOCAL-00004" summary="实现部分员工管理，公司管理，系统管理，相关逻辑代码">
+      <created>1600336641685</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600336641685</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改结果类类名">
+      <created>1600337987830</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600337987830</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改">
+      <created>1600431204395</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600431204395</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加批量查询员工姓名，添加员工的视图包装类">
+      <created>1600439099547</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600439099547</updated>
+    </task>
+    <task id="LOCAL-00008" summary="代码修改">
+      <created>1600660207393</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600660207394</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Demo1ApplicationTests - 2020.09.28 at 09h 34m 27s.xml">
+      <configuration name="Demo1ApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1ApplicationTests - 2020.09.28 at 10h 34m 38s.xml">
+      <configuration name="Demo1ApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1ApplicationTests - 2020.09.28 at 10h 37m 18s.xml">
+      <configuration name="Demo1ApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1ApplicationTests - 2020.09.28 at 10h 42m 02s.xml">
+      <configuration name="Demo1ApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1ApplicationTests - 2020.09.28 at 10h 44m 26s.xml">
+      <configuration name="Demo1ApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1ApplicationTests - 2020.09.28 at 10h 45m 54s.xml">
+      <configuration name="Demo1ApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1ApplicationTests - 2020.09.28 at 10h 47m 41s.xml">
+      <configuration name="Demo1ApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1ApplicationTests - 2020.09.28 at 10h 47m 50s.xml">
+      <configuration name="Demo1ApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1ApplicationTests - 2020.09.28 at 11h 02m 16s.xml">
+      <configuration name="Demo1ApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo1ApplicationTests - 2020.09.30 at 10h 26m 25s.xml">
+      <configuration name="Demo1ApplicationTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="305145000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.22184986" side_tool="true" visible="true" weight="0.259887" />
+      <window_info anchor="right" id="Maven Projects" order="9" sideWeight="0.49895614" weight="0.38425046" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32930514" />
+      <window_info id="Structure" order="1" sideWeight="0.50855744" side_tool="true" weight="0.31117824" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24924472" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5891421" weight="0.3983051" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.25123152" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.48592493" weight="0.33333334" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run Dashboard" order="13" sideWeight="0.65817696" weight="0.37570623" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" sideWeight="0.6805136" weight="0.48440066" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.77815014" weight="0.259887" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.32840723" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49144253" visible="true" weight="0.22050938" />
+      <window_info id="Web" order="6" sideWeight="0.5025381" side_tool="true" weight="0.30786687" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="5" sideWeight="0.5025381" side_tool="true" weight="0.30786687" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.50104386" side_tool="true" visible="true" weight="0.27144772" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Bean Validation" order="7" weight="0.32980332" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/eastcom-ripple" />
+    </ignored-roots>
+    <MESSAGE value="实现部分员工管理，公司管理，系统管理，相关逻辑代码" />
+    <MESSAGE value="修改结果类类名" />
+    <MESSAGE value="修改" />
+    <MESSAGE value="添加批量查询员工姓名，添加员工的视图包装类" />
+    <MESSAGE value="代码修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码修改" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="work_space1" type="b2602c69:ProjectViewProjectNode" />
+        <item name="work_space1" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/entity/Role.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/AccountController.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/mapper/EmployeeMapper.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/mapper/AccountMapper.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/mapper/EmployeeMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/mapper/JobMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/DepartmentController.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/EmployeeController.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/EmployeeDistributeController.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/RoleController.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/SysUserController.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/mapper/SalaryMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/employee/src/main/java/com/example/demo/serviceinterimpl/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/src/main/java/com/example/demo/serviceinterimpl/EmployeeDimissionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/src/main/java/com/example/demo/serviceinterimpl/SysUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/src/main/java/com/example/demo/serviceinterimpl/EmployeeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/src/main/java/com/example/demo/serviceinterimpl/JobServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/serviceinterimpl/EmployeeDimissionServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/serviceinter/SysUserService.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/serviceinterimpl/SysUserServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/employee/src/main/java/com/example/demo/serviceinterimpl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/JobController.java" />
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/login/token.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/mapper/SysUserMapper.java" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/resources/mapper/SysUserMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/eastcom-ripple/eastcom-ripple-employee-management/src/main/java/com/eastcom/ripple/controller/LoginController.java" />
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/login/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/login/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/login/UserLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="102" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/src/main/resources/mapper/AccountMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/src/main/resources/mapper/DepartmentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/src/main/resources/mapper/EmployeeDimissionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/src/main/java/com/example/demo/EmployeeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1235">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK-8/src.zip!/java/lang/annotation/Documented.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/Demo1ApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK-8/src.zip!/java/lang/Deprecated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/Demo1Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/controller/InheritableFather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/controller/InheritableSon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/inter/Inheritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/inter/SignDefinte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK-8/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3711">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/controller/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

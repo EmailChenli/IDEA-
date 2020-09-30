@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.mapper.AccountMapper">
+<!--映射对象  -->
+<resultMap type="Account" id="BaseResultMap" >
+	<id column="account_id" property="accountId" jdbcType="BIGINT"/>
+	<result	column="account_name" property="accountName" jdbcType="VARCHAR"/>
+	<result column="account_password" property="accountPassword" jdbcType="VARCHAR"/>
+	<result	column="employee_id" property="employeeId" jdbcType="BIGINT"/>
+	<result	column="createTime" property="createTime" jdbcType="TIMESTAMP"/>
+	<result	column="modifyTime" property="modifyTime" jdbcType="TIMESTAMP"/>
+</resultMap>
+	<select id="findAll" resultMap="BaseResultMap" >
+		select *from tb_account;
+	</select>
+
+	<select id="findById" parameterType="Long" resultMap="BaseResultMap">
+		select *from tb_account where account_id=#{accountId};
+	</select>
+</mapper>

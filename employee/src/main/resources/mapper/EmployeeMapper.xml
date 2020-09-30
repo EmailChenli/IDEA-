@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.mapper.EmployeeMapper">
+
+ 
+<!--映射对象  -->
+<resultMap type="Employee" id="BaseResultMap" >
+	<id column="employee_id" property="employeeId" jdbcType="BIGINT"/>
+	<result	column="employee_name" property="employeeName" jdbcType="VARCHAR"/>
+	<result column="employee_sex" property="employeeSex" jdbcType="VARCHAR"/>
+	<result	column="employee_phone" property="employeePhone" jdbcType="VARCHAR"/>
+	<result	column="employee_email" property="employeeEmail" jdbcType="VARCHAR"/>
+	<result	column="employee_eduSchool" property="employeeEduSchool" jdbcType="VARCHAR"/>
+	<result	column="employee_idcard" property="employeeIdcard" jdbcType="VARCHAR"/>
+	<result	column="employee_address" property="employeeAddress" jdbcType="VARCHAR"/>
+	<result	column="job_id" property="jobId" jdbcType="INTEGER"/>
+	<result	column="createTime" property="createTime" jdbcType="TIMESTAMP"/>
+	<result	column="modifyTime" property="modifyTime" jdbcType="TIMESTAMP"/>
+</resultMap>
+
+<select id="findAll" resultMap="BaseResultMap">
+	select * from  tb_employee;
+</select>
+
+<select id="findById" parameterType="Long" resultMap="BaseResultMap">
+	select * from  tb_employee where employee_id=#{employeeId};
+</select> 
+
+
+</mapper>

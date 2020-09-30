@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.mapper.SysUserMapper">
+<!--映射对象  -->
+<resultMap type="SysUser" id="BaseResultMap" >
+	<id column="sysuser_id" property="sysuserId" jdbcType="BIGINT"/>
+	<result	column="sysuser_account" property="sysuserAccount" jdbcType="VARCHAR"/>
+	<result column="sysuser_password" property="sysuserPassword" jdbcType="VARCHAR"/>
+	<result	column="sysuser_status" property="sysuserStatus" jdbcType="INTEGER"/>
+	<result	column="role_id" property="roleId" jdbcType="INTEGER"/>
+	<result	column="createTime" property="createTime" jdbcType="TIMESTAMP"/>
+	<result	column="modifyTime" property="modifyTime" jdbcType="TIMESTAMP"/>
+</resultMap>
+	<select id="findAll" resultMap="BaseResultMap" >
+		select *from tb_sysuser;
+	</select>
+
+	<select id="findById" parameterType="Long" resultMap="BaseResultMap">
+		select *from tb_sysuser where sysuser_id=#{sysuserId};
+	</select>
+</mapper>

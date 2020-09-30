@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-util" />
+        <module name="demo" />
+        <module name="demo1" />
+        <module name="eastcom-ripple-asset-management" />
+        <module name="eastcom-ripple-employee-management" />
+        <module name="eastcom-ripple-meeting-room-management" />
+        <module name="eastcom-ripple-network-management" />
+        <module name="eastcom-ripple-ordering-platform" />
+        <module name="eastcom-ripple-shiro" />
+        <module name="employee" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="demo1" target="1.8" />
+      <module name="employee" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

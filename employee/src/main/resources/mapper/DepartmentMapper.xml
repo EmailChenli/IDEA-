@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 映射与包下对应，否则报无法找到对象错误 -->
+<mapper namespace="com.example.demo.mapper.DepartmentMapper">
+<resultMap type="Department" id="BaseResultMap">
+	<id column="department_id" property="departmentId" jdbcType="INTEGER"/>
+	<result column="department_name" property="departmentName" jdbcType="VARCHAR"/>
+	<result column="department_msg" property="departmentMsg" jdbcType="VARCHAR"/>
+	<result column="createTime" property="createTime" jdbcType="TIMESTAMP"/>
+	<result column="modifyTime" property="modifyTime" jdbcType="TIMESTAMP"/>
+</resultMap>
+<!-- 添加部门对象 -->
+<insert id="addDepartment" parameterType="Department" useGeneratedKeys="true" keyProperty="departmentId">
+	insert into tb_department(departmentName,departmentMsg)
+	value(#{department.departmentName},#{department.departmentMsg});
+</insert>
+
+<!-- 根据id更新部门对象 parameterType+@注解可以不写-->
+<update id="updateDepartmentById" parameterType="Department" useGeneratedKeys="true" keyProperty="departmentId">
+	update tb_department set department_name=#{department.departmentName},
+	department_msg=#{department.departmentMsg},
+	modifyTime= current_timestamp() where
+	department_id=#{department.departmentId};
+</update>
+
+<!--根据id删除对象  -->
+<delete id="deleteDepartmentById" parameterType="Integer" >
+	delete from tb_department where department_id=#{departmentId};
+</delete>
+
+<!-- 查询所有部门 -->
+<select id="selectDepartmentAll" resultMap="BaseResultMap">
+	select * from tb_department;
+</select>
+
+<!--根据id获取部门对象  -->
+<select id="selectDepartmentById" parameterType="Integer" resultMap="BaseResultMap">
+	select * from tb_department where department_id=#{departmentId};
+</select>
+
+<!--根据关键字获取对象  -->
+<select id="selectDepartmentLike"  resultMap="BaseResultMap">
+	select * from tb_department where 
+	department_id like concat('%',#{departmentId},'%')
+	or department_name like concat('%',#{departmentName},'%');
+</select>
+
+</mapper>
